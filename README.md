@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://i.ibb.co/n6B5hrm/Alfiansyah.jpg" width="128" height="128"/>
+<img src="https://i.ibb.co/n6B5hrm/villopratama.jpg" width="128" height="128"/>
 </p>
 <p align="center">
 <a href="#"><img title="Whatsapp-Bot" src="https://img.shields.io/badge/Termux Whatsapp Bot-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
@@ -9,7 +9,7 @@
 ## Clone this project
 
 ```bash
-> git clone https://github.com/alfiansx/alfbot
+> git clone https://github.com/villopratama/villo
 ```
 
 ## Install the dependencies:
@@ -17,7 +17,7 @@ Before running the below command, make sure you're in the project directory that
 you've just cloned!!
 
 ```bash
-> cd alfbot
+> cd villo
 > bash install.sh
 ```
 
@@ -63,4 +63,4 @@ you've just cloned!!
 * [`IbnuSyawall`](https://github.com/ibnusyawall)
 
 ### Donate
-* [`Saweria`](https://saweria.co/donate/aditiaalfians)
+* [`Saweria`](https://saweria.co/donate/villopratama)
